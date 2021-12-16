@@ -8,13 +8,7 @@ Included is a smart contract, tests for that contract, a script that deploys the
 The UI was designed in React (Repl.it) and is simply a shell for invoking our smart contract and displaying relevant UI elements to the user. This completes the project which can now be referred to as a decentralized app or a dApp. 
 
 Tech Stack and goodies used:
-Javascript
-Node/node.js
-Solidity
-React
-Repl.it
-Hardhat
-Alchemy
+Javascript, Node/node.js, Solidity, React, Repl.it, Hardhat, Alchemy.
 
 Try some of the following commands to interact with the hardhat instance:
 
